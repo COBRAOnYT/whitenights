@@ -1,4 +1,4 @@
-# esx_yakuza
+# esx_whitenights
 
 This resource contains the script: esx_yakuzajob from ESX-ORG! This resource was only rewritten.
 
