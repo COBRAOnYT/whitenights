@@ -1,6 +1,6 @@
 # White Nights Job
 
-This resource contains the script: esx_yakuzajob from ESX-ORG! This resource was only rewritten.
+This resource contains the script: esx_policejob from ESX-ORG! This resource was only rewritten.
 
 ### Requirements
 * Auto mode
